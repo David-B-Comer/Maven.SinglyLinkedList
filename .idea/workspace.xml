@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f0c6f35-1ac5-49ea-b41e-20445c07c5c6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
@@ -45,7 +49,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -101,6 +105,22 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglyLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="singlylinkedlist" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zipcodewilmington.singlylinkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zipcodewilmington.singlylinkedlist" />
+      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.singlylinkedlist.SinglyLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -164,6 +184,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SinglyLinkedListTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -176,7 +201,9 @@
       <option name="presentableId" value="Default" />
       <updated>1515621994762</updated>
       <workItem from="1583624655974" duration="2388000" />
-      <workItem from="1583759863729" duration="4760000" />
+      <workItem from="1583759863729" duration="10808000" />
+      <workItem from="1584821861747" duration="1670000" />
+      <workItem from="1584889036294" duration="7716000" />
     </task>
     <servers />
   </component>
@@ -192,9 +219,38 @@
       <screen x="47" y="23" width="1873" height="1057" />
     </state>
     <state x="732" y="418" width="508" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/47.23.1873.1057@47.23.1873.1057" timestamp="1583869634011" />
-    <state x="1763" y="-488" key="SettingsEditor" timestamp="1583628625505">
-      <screen x="1280" y="-598" width="1920" height="1057" />
+    <state width="1818" height="289" key="GridCell.Tab.0.bottom" timestamp="1584910621602">
+      <screen x="-1867" y="23" width="1867" height="1057" />
     </state>
+    <state width="1818" height="289" key="GridCell.Tab.0.bottom/-1865.23.1865.1057/0.23.1920.1057@-1865.23.1865.1057" timestamp="1584906454299" />
+    <state width="1818" height="289" key="GridCell.Tab.0.bottom/-1867.23.1867.1057/0.23.1920.1057@-1867.23.1867.1057" timestamp="1584910621602" />
+    <state width="1176" height="184" key="GridCell.Tab.0.bottom/41.23.1239.777@41.23.1239.777" timestamp="1584825411813" />
+    <state width="1176" height="184" key="GridCell.Tab.0.bottom/42.23.1238.777@42.23.1238.777" timestamp="1584822138228" />
+    <state width="1818" height="289" key="GridCell.Tab.0.center" timestamp="1584910621601">
+      <screen x="-1867" y="23" width="1867" height="1057" />
+    </state>
+    <state width="1818" height="289" key="GridCell.Tab.0.center/-1865.23.1865.1057/0.23.1920.1057@-1865.23.1865.1057" timestamp="1584906454298" />
+    <state width="1818" height="289" key="GridCell.Tab.0.center/-1867.23.1867.1057/0.23.1920.1057@-1867.23.1867.1057" timestamp="1584910621601" />
+    <state width="1176" height="184" key="GridCell.Tab.0.center/41.23.1239.777@41.23.1239.777" timestamp="1584825411812" />
+    <state width="1176" height="184" key="GridCell.Tab.0.center/42.23.1238.777@42.23.1238.777" timestamp="1584822138227" />
+    <state width="1818" height="289" key="GridCell.Tab.0.left" timestamp="1584910621600">
+      <screen x="-1867" y="23" width="1867" height="1057" />
+    </state>
+    <state width="1818" height="289" key="GridCell.Tab.0.left/-1865.23.1865.1057/0.23.1920.1057@-1865.23.1865.1057" timestamp="1584906454296" />
+    <state width="1818" height="289" key="GridCell.Tab.0.left/-1867.23.1867.1057/0.23.1920.1057@-1867.23.1867.1057" timestamp="1584910621600" />
+    <state width="1176" height="184" key="GridCell.Tab.0.left/41.23.1239.777@41.23.1239.777" timestamp="1584825411811" />
+    <state width="1176" height="184" key="GridCell.Tab.0.left/42.23.1238.777@42.23.1238.777" timestamp="1584822138227" />
+    <state width="1818" height="289" key="GridCell.Tab.0.right" timestamp="1584910621601">
+      <screen x="-1867" y="23" width="1867" height="1057" />
+    </state>
+    <state width="1818" height="289" key="GridCell.Tab.0.right/-1865.23.1865.1057/0.23.1920.1057@-1865.23.1865.1057" timestamp="1584906454299" />
+    <state width="1818" height="289" key="GridCell.Tab.0.right/-1867.23.1867.1057/0.23.1920.1057@-1867.23.1867.1057" timestamp="1584910621601" />
+    <state width="1176" height="184" key="GridCell.Tab.0.right/41.23.1239.777@41.23.1239.777" timestamp="1584825411813" />
+    <state width="1176" height="184" key="GridCell.Tab.0.right/42.23.1238.777@42.23.1238.777" timestamp="1584822138228" />
+    <state x="-1397" y="133" key="SettingsEditor" timestamp="1584910489683">
+      <screen x="-1867" y="23" width="1867" height="1057" />
+    </state>
+    <state x="-1397" y="133" key="SettingsEditor/-1867.23.1867.1057/0.23.1920.1057@-1867.23.1867.1057" timestamp="1584910489683" />
     <state x="1763" y="-488" key="SettingsEditor/52.23.1228.777/1280.-598.1920.1057@1280.-598.1920.1057" timestamp="1583628625505" />
     <state x="39" y="109" key="new project wizard" timestamp="1583801738263">
       <screen x="39" y="23" width="1241" height="777" />
